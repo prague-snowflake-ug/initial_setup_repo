@@ -8,7 +8,7 @@ use role accountadmin;
 CREATE OR REPLACE SECRET admin.general.git_secret_ug5
   TYPE = password
   USERNAME = 'prague-snowflake-ug'
-  PASSWORD = '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'
+  PASSWORD = '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'
 ;
 
 CREATE OR REPLACE API INTEGRATION git_api_integration_ug5
